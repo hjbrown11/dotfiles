@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hannah.j.brown@hotmail.co.uk
+	name = Hannah Brown
